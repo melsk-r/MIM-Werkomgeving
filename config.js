@@ -97,11 +97,11 @@ let respecConfig = {
     },
   ],
   //neem hier de URL van de github repository op waar het respec document in staat
-  github: "https://github.com/melsk-r/MIM-Werkomgeving",
+  github: "https://github.com/Geonovum/MIM-Werkomgeving",
   //-- Repositorynaam/issues op GitHub ------------------------------------------------
-  issueBase: "https://github.com/melsk-r/MIM-Werkomgeving/issues/",
+  issueBase: "https://github.com/Geonovum/MIM-Werkomgeving/issues/",
   //-- edDraftURI: de URI van de werkversie van het document
-  edDraftURI: "https://melsk-r.github.io/MIM-Werkomgeving/",
+  edDraftURI: "https://geonovum.github.io/MIM-Werkomgeving/",
   //-- license: voor de geldende gebruiksvoorwaarden
   licence: "cc-by-nd",                        //-- bronvermelding, geen afgeleide werken (default)
   // licence: "cc0",                          //-- Public Domain Dedication
